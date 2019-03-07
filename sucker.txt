@@ -1,0 +1,2 @@
+Ozod ;MC ;4321 ;master ;
+Azizbek ;MA ;12340000 ;visa ;
